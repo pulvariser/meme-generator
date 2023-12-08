@@ -1,0 +1,13 @@
+body{
+    background-color:burlywood;
+}
+
+
+.app-container{
+    /* height: 100vh; */
+    width: 70%;
+    margin-left: 15%;
+    background-color: antiquewhite;
+    
+    
+}
